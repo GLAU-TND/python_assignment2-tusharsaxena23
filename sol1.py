@@ -16,4 +16,4 @@ if k==0:
             print()
             c=9
 else:
-    print(None)
+    print('Null')
